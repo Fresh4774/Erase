@@ -1,0 +1,9 @@
+dist
+build
+media
+model
+cache
+node_modules
+*-lock.yaml
+*-lock.json
+src/paraglide/*
